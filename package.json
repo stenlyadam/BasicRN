@@ -8,7 +8,7 @@
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest",
-    "emulator": "emulator -avd Nexus_S_API_33"
+    "emulatorNexus": "emulator -avd Nexus_S_API_33"
   },
   "dependencies": {
     "react": "18.2.0",
