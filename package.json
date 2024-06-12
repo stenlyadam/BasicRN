@@ -8,7 +8,7 @@
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest",
-    "emulator": "emulator -avd Nexus_S_API_33",
+    "emulator": "emulator -avd Pixel_2_XL_API_34",
     "git": "git add . && git commit -m 'update' && git push origin master"
   },
   "dependencies": {
