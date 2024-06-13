@@ -1,8 +1,9 @@
-import {StyleSheet, Text, View} from 'react-native';
 import React from 'react';
-import Title from '../../components/Title';
-import TextInput from '../../components/TextInput';
+import {StyleSheet, View} from 'react-native';
+
 import Button from '../../components/Button';
+import TextInput from '../../components/TextInput';
+import Title from '../../components/Title';
 
 const SignIn = () => {
   const emailSignIn = () => {
